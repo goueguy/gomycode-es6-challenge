@@ -1,6 +1,4 @@
 function XO(str) {
-    //code here
-    //str.split("")
     let countX=0;
     let countO=0;
     for(t of  str.split("")){
